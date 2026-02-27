@@ -87,7 +87,7 @@ while (p < eod) {
 
 ---
 
-## Crash Analysis (GDB / pwndbg)
+## Crash Analysis (pwndbg)
 
 ```
 RIP = 0x555555560f01  (pngcheck+30305)
