@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: My Writeups
-description: Vulns research
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Hard Name Writeups
+description: Some writeups for binary exploitation IRL.
